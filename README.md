@@ -149,6 +149,10 @@ h3>👨‍⚖️ I am a full-stack developer. Proficient in building user friend
   <a href="https://channaveerpatil.netlify.app/">
     <img align="left" src="https://media-exp2.licdn.com/dms/image/C4D03AQFGI-liQGuxZw/profile-displayphoto-shrink_800_800/0/1654273147254?e=1660176000&v=beta&t=a8LQVtTNAxiirHGFYZ-vAXX7bTCV3IkmA744yaJwUjs" width="24px"  />
   </a> 
+  
+  <a href="https://www.linkedin.com/in/channaveer-patil-704bb017a/">
+    <img align="left" src="https://1000logos.net/wp-content/uploads/2017/03/Color-of-the-LinkedIn-Logo.jpg" width="24px"  />
+  </a>
                                                                                                                                       
                                                                                                                                                                     
 </p>
