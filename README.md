@@ -150,7 +150,7 @@ h3>👨‍⚖️ I am a full-stack developer. Proficient in building user friend
     <img align="left" src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/leetcode.png?raw=true" width="24px"  />
   </a> -->
                                                                                                                                       
-                                                                                                                                      <a href="mailto:channaveerpatil999@gmail.com">
+                                                                                                                                                                      <a href="mailto:channaveerpatil999@gmail.com">
     <img align="left" src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/mail.png?raw=true" width="32px" />
   </a>
 </p>
