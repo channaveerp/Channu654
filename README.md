@@ -149,12 +149,12 @@ h3>👨‍⚖️ I am a full-stack developer. Proficient in building user friend
  <!-- <a href="https://leetcode.com/monumishra326/">
     <img align="left" src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/leetcode.png?raw=true" width="24px"  />
   </a> -->
-    <a href="https://leetcode.com/monumishra326/">
-    <img align="left" src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/leetcode.png?raw=true" width="24px"  />
+    <a href="https://channaveerpatil.netlify.app/">
+    <img align="left" src="	https://media-exp2.licdn.com/dms/image/C4D03AQFGI-…eta&t=a8LQVtTNAxiirHGFYZ-vAXX7bTCV3IkmA744yaJwUjs" width="24px"  />
   </a>                                                                                                                                  
                                                                                                                                                                     
 </p>
-                                                                                                                                   P
+                                                                                                                                   
 <br><br/> 
 <!-- <img src="https://channaveerpatil.netlify.app/static/media/P.63fea38e.jpeg" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 🙂</em> -->
 
