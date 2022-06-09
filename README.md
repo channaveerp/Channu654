@@ -150,7 +150,7 @@ h3>👨‍⚖️ I am a full-stack developer. Proficient in building user friend
     <img align="left" src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/leetcode.png?raw=true" width="24px"  />
   </a> -->
     <a href="https://channaveerpatil.netlify.app/">
-    <img align="left" src="	https://media-exp2.licdn.com/dms/image/C4D03AQFGI-…eta&t=a8LQVtTNAxiirHGFYZ-vAXX7bTCV3IkmA744yaJwUjs" width="24px"  />
+   
   </a>                                                                                                                                  
                                                                                                                                                                     
 </p>
