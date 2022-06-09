@@ -1,4 +1,4 @@
-<h1 color="blue"> Channaveer Patil , I'm a Full Stack Web Developer.</h1>
+<h1 style= color:"blue"> Channaveer Patil , I'm a Full Stack Web Developer.</h1>
 
 h3>👨‍⚖️ I am a full-stack developer. Proficient in building user friendly websites. Passionate about implementing and launching new projects. Able to translate business requirements into technical solutions. I am always ready to learn new technologies.</h3>
 
