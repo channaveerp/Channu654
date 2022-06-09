@@ -151,7 +151,7 @@ h3>👨‍⚖️ I am a full-stack developer. Proficient in building user friend
   </a> -->
 </p>
 <br><br/> 
-<!-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 🙂</em> -->
+<!-- <img src="https://channaveerpatil.netlify.app/static/media/P.63fea38e.jpeg" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 🙂</em> -->
 
 ---
 
