@@ -146,7 +146,7 @@
   <a href="https://channaveerpatil.netlify.app/">
     <img align="left" src="	https://channaveerpatil.netlify.app/static/media/P.63fea38e.jpeg" />
   </a>
-  <a href="[https://channaveerpatil.netlify.app/](https://resilient-sunshine-7c95eb.netlify.app/)">
+  <a href="https://resilient-sunshine-7c95eb.netlify.app/">
     <img align="left" src="https://media-exp2.licdn.com/dms/image/C4D03AQFGI-liQGuxZw/profile-displayphoto-shrink_800_800/0/1654273147254?e=1660176000&v=beta&t=a8LQVtTNAxiirHGFYZ-vAXX7bTCV3IkmA744yaJwUjs" width="40px"  />
   </a> 
   
