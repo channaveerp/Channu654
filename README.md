@@ -165,7 +165,7 @@
 ### 🐱 &nbsp;My Github stats:
 
 </p> 
-<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Bhupesh1114&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->
+<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Channu654&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->
 
 <p align="center" >
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Channu654&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727"  />
@@ -183,7 +183,7 @@
  <br/>
 <!-- <p align="center">
 <a href="https://github.com/Kapil5849Jadon"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhupesh1114&theme=dracula" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Channu654&theme=dracula" />
 </span></a> </p> -->
 
  <!-- <!-- <br/> -->
