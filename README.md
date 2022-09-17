@@ -140,6 +140,7 @@
  <a href="https://medium.com/@channaveerpatil999">
     <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/medium.svg" width="32px" />
   </a>
+  
   <a href="https://www.linkedin.com/in/channaveer-patil-704bb017a/>
     <img align="left" src="https://media-exp2.licdn.com/dms/image/C4D03AQFGI-…eta&t=a8LQVtTNAxiirHGFYZ-vAXX7bTCV3IkmA744yaJwUjs" width="28px" />
   </a>
@@ -147,7 +148,12 @@
     <img align="left" src="	https://channaveerpatil.netlify.app/static/media/P.63fea38e.jpeg" />
   </a>
 
-  
+   <a href="https://www.linkedin.com/in/channaveer-patil-704bb017a/>
+    <img align="left" src="https://cdn-icons-png.flaticon.com/512/54/54560.png" width="28px" />
+  </a>
+  <a href="https://channaveerpatil.netlify.app/">
+    <img align="left" src="	https://channaveerpatil.netlify.app/static/media/P.63fea38e.jpeg" />
+  </a>
  
                                                                                                                                                                                                                                                                                                       
 </p>
