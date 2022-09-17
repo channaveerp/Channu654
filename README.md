@@ -148,13 +148,7 @@
     <img align="left" src="	https://channaveerpatil.netlify.app/static/media/P.63fea38e.jpeg" />
   </a>
 
-   <a href="https://www.linkedin.com/in/channaveer-patil-704bb017a/>
-    <img align="left" src="https://cdn-icons-png.flaticon.com/512/54/54560.png" width="28px" />
-  </a>
-  
- <!-- <a href="https://channaveerpatil.netlify.app/">
-    <img align="left" src="	https://channaveerpatil.netlify.app/static/media/P.63fea38e.jpeg" />
-  </a> -->
+   
  
                                                                                                                                                                                                                                                                                                       
 </p>
