@@ -126,12 +126,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<!-- <p align="center">
-  <a href="https://www.linkedin.com/in/bhupesh-kumawat/"><img src="https://img.shields.io/badge/Linkdin-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:bhupeshkumawat100@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p> -->
-<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**Connect with me ....**
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> -->
+
 
 <p align="center">
   <a href="mailto:channaveerpatil999@gmail.com">
@@ -154,7 +149,7 @@
                                                                                        
                                                                                                                                    
 
----------
+
 
 ### 🐱 &nbsp;My Github status:
 
