@@ -147,7 +147,7 @@
     <img align="left" src="	https://channaveerpatil.netlify.app/static/media/P.63fea38e.jpeg" />
   </a>
   <a href="https://resilient-sunshine-7c95eb.netlify.app/">
-    <img align="left" src="https://cdn-icons-png.flaticon.com/512/54/54560.png://
+    <img align="left" src="https://cdn-icons-png.flaticon.com/512/54/54560.png/>
     
     
     a-exp2.licdn.com/dms/image/C4D03AQFGI-liQGuxZw/profile-displayphoto-shrink_800_800/0/1654273147254?e=1660176000&v=beta&t=a8LQVtTNAxiirHGFYZ-vAXX7bTCV3IkmA744yaJwUjs" width="40px"  />
@@ -165,7 +165,7 @@
 
 ---
 
-### 🐱 &nbsp;My Github stats:
+### 🐱 &nbsp;My Github status:
 
 </p> 
 <!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Channu654&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->
