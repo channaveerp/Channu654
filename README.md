@@ -145,7 +145,7 @@
     <img align="left" src="https://media-exp2.licdn.com/dms/image/C4D03AQFGI-…eta&t=a8LQVtTNAxiirHGFYZ-vAXX7bTCV3IkmA744yaJwUjs" width="28px" />
   </a>
   <a href="https://channaveer-patil.netlify.app/">
-    <img align="left" src="https://cdn-icons-png.flaticon.com/512/54/54560.png" />
+    <img align="left" src="https://cdn-icons-png.flaticon.com/512/54/54560.png" width="28px" />
   </a>
 
    
