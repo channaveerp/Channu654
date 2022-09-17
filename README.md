@@ -142,7 +142,7 @@
      </a>
   
    <a href="https://www.linkedin.com/in/channaveer-patil-704bb017a/">
-    <img align="left" src="https://blog.waalaxy.com/wp-content/uploads/2021/01/LinkedIn-Symbole.png" width="28px" />
+    <img align="left" src="https://blog.waalaxy.com/wp-content/uploads/2021/01/LinkedIn-Symbole.png" width="32px" />
   </a>
   <a href="https://channaveer-patil.netlify.app/">
     <img align="left" src="https://cdn-icons-png.flaticon.com/512/54/54560.png" width="28px" />
