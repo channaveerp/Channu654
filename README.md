@@ -142,7 +142,7 @@
   </a>
   
   <a href="https://www.linkedin.com/in/channaveer-patil-704bb017a/>
-    <img align="left" src="https://media-exp2.licdn.com/dms/image/C4D03AQFGI-…eta&t=a8LQVtTNAxiirHGFYZ-vAXX7bTCV3IkmA744yaJwUjs" width="28px" />
+    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" width="28px" />
   </a>
   <a href="https://channaveer-patil.netlify.app/">
     <img align="left" src="https://cdn-icons-png.flaticon.com/512/54/54560.png" width="28px" />
