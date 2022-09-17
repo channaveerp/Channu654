@@ -137,21 +137,21 @@
   <a href="mailto:channaveerpatil999@gmail.com">
     <img align="left" src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/mail.png?raw=true" width="32px" />
   </a>
- <a href="https://medium.com/@channaveerpatil999">
-    <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/medium.svg" width="32px" />
-  </a>
+    <a href="https://medium.com/@channaveerpatil999">
+       <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/medium.svg"        width="32px" />
+     </a>
   
-  <a href="https://www.linkedin.com/in/channaveer-patil-704bb017a/>
-    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" width="28px" />
+   <a href="https://www.linkedin.com/in/channaveer-patil-704bb017a/">
+    <img align="left" src="https://blog.waalaxy.com/wp-content/uploads/2021/01/LinkedIn-Symbole.png" width="28px" />
   </a>
   <a href="https://channaveer-patil.netlify.app/">
     <img align="left" src="https://cdn-icons-png.flaticon.com/512/54/54560.png" width="28px" />
   </a>
-
+                                                                                            
+ </p>
    
  
-                                                                                                                                                                                                                                                                                                      
-</p>
+                                                                                       
                                                                                                                                    
 
 ---
