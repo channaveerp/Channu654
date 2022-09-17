@@ -158,8 +158,7 @@
 
 ### 🐱 &nbsp;My Github status:
 
-</p> 
-<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Channu654&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->
+
 
 <p align="center" >
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Channu654&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727"  />
